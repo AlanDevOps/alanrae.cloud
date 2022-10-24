@@ -26,13 +26,9 @@
 		}
 	},
 	{
-		"date": "09-13-2017",
-		"title": "Start Highschool",
-		"description": "Began Highschool at Aleardo Aleardi Interantional School of Verona",
-		"icon": "feather:book",
-		"link": {
-			"text": "Visit Aleardo Aleardi ISV",
-			"url": "http://www.aleardi.it/"
-		}
+		"date": "04-01-2017",
+		"title": "RM Results",
+		"description": "Responsible for solving technical issues related to online e-marking software used across the UK",
+		"icon": "feather:book"
 	}
 ]

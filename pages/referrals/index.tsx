@@ -58,7 +58,7 @@ export default function ReferralsPage({ referrals }: ReferralsProps) {
 	if (referrals.length === 0) return <ErrorPage title="There's nothing here" message="Sorry, there are no referral links for now. Check back later!" />;
 
 	return (
-		<Layout.Default seo={{ title: 'WillyJL ─ Referrals' }}>
+		<Layout.Default seo={{ title: 'AlanRae ─ Referrals' }}>
 			<Toaster
 				toastOptions={{
 					position: 'top-center',

@@ -32,9 +32,9 @@ const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
 		external: true,
-		href: 'https://linktr.ee/WillyJL',
-		icon: <Icon className="mr-3" icon="feather:link" />,
-		text: 'Links',
+		href: '/timeline',
+		icon: <Icon className="mr-3" icon="feather:clock" />,
+		text: 'Timeline',
 	},
 ];
 

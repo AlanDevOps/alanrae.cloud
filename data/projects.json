@@ -1,12 +1,1 @@
-[
-	{
-		"date": "05-01-2021",
-		"title": "NHS Scotland - Covid Status App",
-		"description": "Building infrastructure with Terraform, setting up Azure B2C securely to hold 1 million+ users",
-		"icon": "feather:book",
-		"link": {
-			"text": "NHS Inform",
-			"url": "https://www.nhsinform.scot/nhs-scotland-covid-status"
-		}
-	}
-]
+[]

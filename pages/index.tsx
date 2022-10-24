@@ -31,7 +31,6 @@ const ACTIONS: Array<NavigationItem> = [
 	},
 	{
 		type: NavigationItemType.LINK,
-		external: true,
 		href: '/timeline',
 		icon: <Icon className="mr-3" icon="feather:clock" />,
 		text: 'Timeline',

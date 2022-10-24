@@ -49,7 +49,7 @@ export default function BlogPost({ post }: BlogPostProps) {
 			<Layout.Default
 				backgroundBlur={4}
 				seo={{
-					title: `WillyJL ─ ${post.frontmatter.title}`,
+					title: `Alan Rae ─ ${post.frontmatter.title}`,
 					description: post.frontmatter.description ?? undefined,
 					openGraph: {
 						title: post.frontmatter.title,

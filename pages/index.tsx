@@ -35,12 +35,6 @@ const ACTIONS: Array<NavigationItem> = [
 		icon: <Icon className="mr-3" icon="feather:clock" />,
 		text: 'Timeline',
 	},
-	{
-		type: NavigationItemType.LINK,
-		href: '/cv.pdf',
-		icon: <Icon className="mr-3" icon="feather:clock" />,
-		text: 'CV',
-	},
 ];
 
 export default function HomePage() {

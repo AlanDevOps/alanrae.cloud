@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"date": "05-01-2021",
+		"title": "NHS National Services Scotland - Principal Cloud Engineer",
+		"description": "Management of NHS Scotland’s Cloud infrastructure with continuous improvements and providing technical leadership in architecture, security and deployment of Azure based solutions",
+		"icon": "feather:book",
+		"link": {
+			"text": "National Services Scotland",
+			"url": "https://www.nss.nhs.scot/"
+		}
+	},
+	{
+		"date": "04-16-2018",
+		"title": "CMS Window Systems - IT Systems Administrator",
+		"description": "Responsible for improving and securing current IT Systems together with support of the existing infrastructure",
+		"icon": "feather:globe"
+	},
+	{
+		"date": "02-16-2017",
+		"title": "CMS Window Systems - IT Assistant",
+		"description": "Responsible for deployment of new workstations using automation and testing new patches",
+		"icon": "feather:globe"
+	},
+	{
+		"date": "04-01-2017",
+		"title": "RM Results - Systems Engineer",
+		"description": "Responsible for solving technical issues related to online e-marking software used across the UK",
+		"icon": "feather:book"
+	}
+]

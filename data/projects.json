@@ -1,5 +1,15 @@
 [
 	{
+      	"date": "10-26-2021",
+		"title": "NHS Highland Website Refresh",
+		"description": "Architecting the infrastructure for NHS Highlands new website, including auto scaling and deployment slots",
+		"icon": "feather:activity",
+		"link": {
+			"text": "NHS Highland",
+			"url": "https://www.nhshighland.scot.nhs.uk/"
+		}
+	},
+	{
       	"date": "05-01-2021",
 		"title": "NHS Scotland COVID Status app",
 		"description": "Building infrastructure with Terraform, setting up Azure B2C securely to hold 1 million+ users",

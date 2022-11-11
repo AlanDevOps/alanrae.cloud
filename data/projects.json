@@ -10,6 +10,16 @@
 		}
 	},
 	{
+      	"date": "03-02-2022",
+		"title": "NHS Scotland Patient Connect",
+		"description": "New app allowing external personas to communicate securely with NHS Staff on a patient's recovery",
+		"icon": "feather:activity",
+		"link": {
+			"text": "Coming Soon",
+			"url": ""
+		}
+	},
+	{
       	"date": "05-01-2021",
 		"title": "NHS Scotland COVID Status app",
 		"description": "Building infrastructure with Terraform, setting up Azure B2C securely to hold 1 million+ users",

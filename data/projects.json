@@ -12,18 +12,28 @@
 	{
       	"date": "03-02-2022",
 		"title": "NHS Scotland Patient Connect",
-		"description": "New app allowing external personas to communicate securely with NHS Staff on a patient's recovery",
+		"description": "New app allowing external family to communicate securely with NHS Staff on a patient's recovery and share messages to the patient",
 		"icon": "feather:activity",
 		"link": {
 			"text": "Coming Soon",
-			"url": ""
+			"url": "#"
+		}
+	},
+	{
+      	"date": "11-01-2021",
+		"title": "NHS Scotland Forensic Medical Services (FMS)",
+		"description": "Implementing the proposed architecture with Terraform and assisting with security testing",
+		"icon": "feather:activity",
+		"link": {
+			"text": "Gov.Scot",
+			"url": "https://www.gov.scot/policies/violence-against-women-and-girls/forensic-medical-services-for-rape-victims/"
 		}
 	},
 	{
       	"date": "05-01-2021",
 		"title": "NHS Scotland COVID Status app",
 		"description": "Building infrastructure with Terraform, setting up Azure B2C securely to hold 1 million+ users",
-		"icon": "feather:activity",
+		"icon": "tablet:activity",
 		"link": {
 			"text": "NHS Inform",
 			"url": "https://www.nhsinform.scot/nhs-scotland-covid-status"
